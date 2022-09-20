@@ -1,0 +1,38 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Samsung m40",
+      "color": "black",
+      "price": "14000",
+      "category": "mobile",
+      "brand": "Samsung"   
+     },
+     {
+        "id": 2,
+        "name": "Samsung m10",
+        "color": "blue",
+        "price": "15000",
+        "category": "mobile",
+        "brand": "Samsung"   
+       },
+       {
+        "id": 3,
+        "name": "Samsung m20",
+        "color": "green",
+        "price": "14003",
+        "category": "mobile",
+        "brand": "Samsung"   
+       },
+       {
+        "id": 4,
+        "name": "Samsung m30",
+        "color": "red",
+        "price": "13400",
+        "category": "mobile",
+        "brand": "Samsung"   
+       }
+
+
+  ]
+}
